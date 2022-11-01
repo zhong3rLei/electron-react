@@ -1,0 +1,19 @@
+.task-wrapper {
+    background-color: white;
+    border-radius: 5px;
+    position: relative;
+    height: 508px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.close-btn {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    font-size: 20px;
+    opacity: .6;
+}
+.close-btn:hover {
+    opacity: 1;
+}

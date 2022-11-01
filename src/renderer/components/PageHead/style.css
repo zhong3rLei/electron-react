@@ -1,0 +1,27 @@
+.header .head-item{
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+.header .head-item .head-btn {
+    border-radius: 5px;
+}
+.header .head-item p {
+    color: white;
+    text-shadow: 0 0 2px  black;
+    margin-top: 5px;
+}
+.modal-item {
+    height: 460px;
+    padding-top: 20px;
+}
+.daily-card {
+    margin-bottom: 10px !important;
+    font-size: 16px;
+}
+.daily-card .control {
+    float: right;
+}
